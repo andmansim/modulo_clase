@@ -9,4 +9,8 @@ setup(
     scripts = ['']
 
 )
-#Se supone que tiene que crear una capeta dist
+#Se supone que tiene que crear una capeta dist, donde hay un archivo llamado paquete 
+#Sacamos el archivo de la carpeta y lo instalameos en la terminal con pip install (nombre del archivo ), si lo queremos desinstalar es con uninstall
+#Creo que es para crear nuestras propias librerías
+
+
