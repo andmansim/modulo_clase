@@ -5,6 +5,7 @@ setup(
     version = '1.0'
     description = 'Paquete de prueba'
     author = 'Andrea'
-    package =['paquete','paquete.hola','paquete.adios']
-    scripts = []
+    package =['paquete','paquete.hola','paquete.adios'] #otra opcion era poner __all__ en el init, ns que es
+    scripts = ['']
+    
 )
